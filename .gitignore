@@ -88,3 +88,15 @@ generated/
 #IAR automatically generated files
 *.dep
 *.ewt
+
+*.vcxproj
+*.vcxproj.filters
+CTestTestfile.cmake
+CMakeFiles
+src/CppUTest/CMakeFiles
+cmake_install.cmake
+CppUTestConfig.cmake
+CppUTestConfigVersion.cmake
+CppUTestTargets.cmake
+DartConfiguration.tcl
+CppUTest.sln
